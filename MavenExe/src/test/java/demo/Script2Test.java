@@ -8,5 +8,6 @@ public class Script2Test {
 	public void m2()
 	{//run
 		System.out.println("Bye");
+		System.out.println("run");
 	}
 }
